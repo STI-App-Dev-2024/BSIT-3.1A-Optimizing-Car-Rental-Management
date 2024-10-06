@@ -2,10 +2,10 @@
 ##### Enhancing user experience with web-based online booking solutions
 
 ## **Collaborators**
-### • **Lebron, Kei*
-### • **Matining, Julius*
-### • **Deputo, Joshua*
-### • **Vinegas, John Paul*
+### • *Lebron, Kei*
+### • *Matining, Julius*
+### • *Deputo, Joshua*
+### • *Vinegas, John Paul*
 
 ## **Wire Frame**
 [Figma Link](https://www.figma.com/design/0fHLLQg1d4QTAuGXX4rER6/CAR-RENTAL)
