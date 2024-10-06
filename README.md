@@ -1,11 +1,11 @@
 # BSIT-3.1A-Optimizing-Car-Rental-Management
-## Enhancing user experience with web-based online booking solutions
+### Enhancing user experience with web-based online booking solutions
 
 # Collaborators
-Lebron, Kei
-Matining, Julius
-Deputo, Joshua
-Vinegas, John Paul
+### Lebron, Kei
+### Matining, Julius
+### Deputo, Joshua
+### Vinegas, John Paul
 
 
 # Gant Chart
